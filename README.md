@@ -1,5 +1,13 @@
 # 🚀 GitHub OAuth App – Repository & Branch Viewer
 
+---
+
+## 🎥 Demo Video
+
+📺 [Watch the demo here](https://drive.google.com/file/d/1tsQpYI-nkXRRA28Mt3Tr9aJ2jWRSlOjW/view?usp=sharing) _(https://drive.google.com/file/d/1tsQpYI-nkXRRA28Mt3Tr9aJ2jWRSlOjW/view?usp=sharing)_
+
+---
+
 ## 📌 Project Overview
 
 This is a **GitHub OAuth-powered web application** that allows users to:  
@@ -106,13 +114,7 @@ npm run dev
 ## 🖼 Screenshots
 
 https://drive.google.com/drive/folders/1qOzqT9BAMIH0R3Yf75gMiPn2DpwRUdXs?usp=drive_link
----
 
-## 🎥 Demo Video
-
-📺 [Watch the demo here](https://drive.google.com/file/d/1tsQpYI-nkXRRA28Mt3Tr9aJ2jWRSlOjW/view?usp=sharing) _(https://drive.google.com/file/d/1tsQpYI-nkXRRA28Mt3Tr9aJ2jWRSlOjW/view?usp=sharing)_
-
----
 
 ## 🤝 Contributing
 
