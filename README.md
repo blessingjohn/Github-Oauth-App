@@ -105,15 +105,7 @@ npm run dev
 
 ## 🖼 Screenshots
 
-🚀 **Login Page**  
-![Login](https://drive.google.com/file/d/1wKJa3ZbfXQ2MtuGh0hYOar4hlrXijKHw/view?usp=sharing)
-
-📌 **Repository List Q1**  
-![Repositories](https://drive.google.com/file/d/1NZZsVl9DRpyZanf4Qovz02TsiZZB48rM/view?usp=drive_link)
-
-🌿 **Repository List Question2**  
-![Branches](https://drive.google.com/file/d/1DBwJ5T0J6bgoYn0ajgL4YK7cu51SMIeB/view?usp=drive_link)
-
+https://drive.google.com/drive/folders/1qOzqT9BAMIH0R3Yf75gMiPn2DpwRUdXs?usp=drive_link
 ---
 
 ## 🎥 Demo Video
