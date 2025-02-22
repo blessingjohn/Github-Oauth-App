@@ -106,19 +106,19 @@ npm run dev
 ## 🖼 Screenshots
 
 🚀 **Login Page**  
-![Login](https://via.placeholder.com/800x400?text=Login+Page)
+![Login](https://drive.google.com/file/d/1wKJa3ZbfXQ2MtuGh0hYOar4hlrXijKHw/view?usp=sharing)
 
-📌 **Repository List**  
-![Repositories](https://via.placeholder.com/800x400?text=Repositories+List)
+📌 **Repository List Q1**  
+![Repositories](https://drive.google.com/file/d/1NZZsVl9DRpyZanf4Qovz02TsiZZB48rM/view?usp=drive_link)
 
-🌿 **Branch Viewer**  
-![Branches](https://via.placeholder.com/800x400?text=Branch+Viewer)
+🌿 **Repository List Question2**  
+![Branches](https://drive.google.com/file/d/1DBwJ5T0J6bgoYn0ajgL4YK7cu51SMIeB/view?usp=drive_link)
 
 ---
 
 ## 🎥 Demo Video
 
-📺 [Watch the demo here](#) _(https://drive.google.com/file/d/1tsQpYI-nkXRRA28Mt3Tr9aJ2jWRSlOjW/view?usp=sharing)_
+📺 [Watch the demo here](https://drive.google.com/file/d/1tsQpYI-nkXRRA28Mt3Tr9aJ2jWRSlOjW/view?usp=sharing) _(https://drive.google.com/file/d/1tsQpYI-nkXRRA28Mt3Tr9aJ2jWRSlOjW/view?usp=sharing)_
 
 ---
 
