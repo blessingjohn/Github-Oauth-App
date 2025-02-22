@@ -33,8 +33,8 @@ This is a **GitHub OAuth-powered web application** that allows users to:
 ### 🖥 1. Clone the Repository
 
 ```bash
-git clone https://github.com/blessingjohn/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/blessingjohn/Github-Oauth-App.git
+cd Github-Oauth-App
 ```
 
 ---
@@ -118,7 +118,7 @@ npm run dev
 
 ## 🎥 Demo Video
 
-📺 [Watch the demo here](#) _(Upload your demo video link)_
+📺 [Watch the demo here](#) _(https://drive.google.com/file/d/1tsQpYI-nkXRRA28Mt3Tr9aJ2jWRSlOjW/view?usp=sharing)_
 
 ---
 
